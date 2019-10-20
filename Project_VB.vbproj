@@ -188,6 +188,7 @@
     <Content Include="Styles\mystyle.css" />
     <Content Include="Styles\print.css" />
     <Content Include="Styles\reset.css" />
+    <Content Include="TestPage.html" />
     <Content Include="Web.config">
       <SubType>Designer</SubType>
     </Content>
